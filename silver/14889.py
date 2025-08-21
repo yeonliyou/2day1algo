@@ -1,7 +1,7 @@
 import sys
 import itertools
 
-#sys.stdin = open('14889.txt')
+#sys.stdin = open('input.txt')
 
 # 사람 수 받기 (짝수)
 N = int(input())
