@@ -1,3 +1,5 @@
+## 아 ; 문제 잘못읽음
+
 import sys
 sys.stdin = open('input.txt')
 
@@ -78,5 +80,5 @@ def pick_new_building_area():
     
     # 2의 상하좌우 중에 벽 세우기
     for curr_two in two_loc_set:
-        
+
                 
