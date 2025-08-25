@@ -1,2 +1,2 @@
 # 2day1algo
-algorithm study
+- 1 algorithm every 2 day
